@@ -23,9 +23,9 @@ Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayarettGonzalez&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Nayarett González Villa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayarettGonzalez&theme=gruvbox)](https://github.com/NayarettGonzalez/github-readme-stats)
+[![Nayarett González Villa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayarett-Gonzalez&theme=gruvbox)](https://github.com/NayarettGonzalez/github-readme-stats)
 
-![ViewCount](https://komarev.com/ghpvc/?username=NayarettGonzalez&color=yellow)
+![ViewCount](https://komarev.com/ghpvc/?username=Nayarett-Gonzalez&color=yellow)
 
 <!---
 NayarettGonzalez/NayarettGonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
