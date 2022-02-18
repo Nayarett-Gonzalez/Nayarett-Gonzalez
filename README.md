@@ -12,7 +12,7 @@
 
 [Credly](https://www.credly.com/users/nayarett-gonzalez/badges)
 
-[PUC](https://www.freecodecamp.org/Nayarett)
+[Freecodecamp](https://www.freecodecamp.org/Nayarett)
 
 [PUC](http://www.mat.uc.cl/personas/alumnos)
 
